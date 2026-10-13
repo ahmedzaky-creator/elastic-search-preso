@@ -457,16 +457,7 @@ function evolution(o: VisualOptions): string {
       txt(346, 182, "Use the current 4.0 guide.", 15, C.ink, "v-bold") +
       txt(346, 212, "Verify the prerequisites before rollout.", 13) +
       pill(346, 234, "Admin guide §2.1–2.3", C.blue, "white", 210),
-    node(
-      332,
-      156,
-      "search",
-        "Retrieve",
-      "PERMITTED TOOL",
-      C.blue,
-      156,
-      73,
-    ) +
+    node(332, 156, "search", "Retrieve", "PERMITTED TOOL", C.blue, 156, 73) +
       flow("M488 192 H515", C.teal, 2.5) +
       node(
         516,
