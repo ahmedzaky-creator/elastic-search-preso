@@ -1,6 +1,6 @@
 # Elastic Search: From scattered knowledge to trusted context
 
-Status: written design for review. Create an original Search presentation for CTO and search platform leaders. The player, delivery format, and direct slide navigation carry forward from the completed Security presentation. Search content and public publication are subject to this design's review. This public-design draft contains no internal reference identifiers, access history, private URLs, or copied reference content.
+Status: approved by the user on October 13, 2026. Independent review approved the design before implementation. Create an original Search presentation for CTO and search platform leaders. The player, delivery format, and direct slide navigation carry forward from the completed Security presentation. The user approved implementation and publication and requested richer, more engaging and creative animation. This public-design draft contains no internal reference identifiers, access history, private URLs, or copied reference content.
 
 ## Audience, purpose, and delivery
 
@@ -80,7 +80,7 @@ A help-menu appendix is outside the 34 core scenes and PDF. It explains the publ
 
 Reuse the approved Security player's proportionally scaled 1280×720 stage, original white/light surfaces, Inter and IBM Plex Mono fonts, black headlines with blue emphasis, thin rules and restrained teal/pink accents. Search diagrams are new and emphasize ranked lists, retrieval paths, vector neighborhoods, memory/disk boundaries, authorization gates and evidence provenance. Approximately 180ms transitions and 600ms staggered entrances remain appropriate.
 
-Animation must explain relationships. Each sequence plays automatically while its slide is active, with a readable hold on its final state and a loop back to the beginning. **Right/Left, Space/Page keys, toolbar arrows and swipes always move directly between slides.** Internal animation phases never consume navigation input. R/replay restarts the slide. History records slides. Pause phased playback while a modal is open, during drawing, or when the document is hidden. Cancel resources on scene exit. Diagram ticks preserve headline, speaker notes, timer and annotations.
+Animation must explain relationships. The approved creative direction adds original kinetic ranked lists, flowing retrieval branches, vector neighborhoods, index-path tracing, evidence assembly and authorization gates; it avoids repetitive decoration or distracting headline motion. Each sequence plays automatically while its slide is active, with a readable hold on its final state and a loop back to the beginning. **Right/Left, Space/Page keys, toolbar arrows and swipes always move directly between slides.** Internal animation phases never consume navigation input. R/replay restarts the slide. History records slides. Pause phased playback while a modal is open, during drawing, or when the document is hidden. Cancel resources on scene exit. Diagram ticks preserve headline, speaker notes, timer and annotations.
 
 Reduced motion and static rendering show complete states immediately. A diagram's number of phases must match the scene metadata exactly. Thumbnails and PDF show the final complete diagram.
 
